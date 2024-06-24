@@ -14,7 +14,7 @@
 <div align="center">
  
 
-<img  align= " left" height="180" src="https://github-readme-stats.vercel.app/api?username=Tushar69k&show_icons=true&theme=chartreuse-dark">
+<img  align= " left"  src="https://github-readme-stats.vercel.app/api?username=Tushar69k&show_icons=true&theme=chartreuse-dark">
 
 
 
