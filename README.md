@@ -11,7 +11,7 @@
 <img src='https://img.shields.io/github/followers/Tushar69k?logo=Github&style=for-the-badge'><img src="https://img.shields.io/github/stars/Tushar69k?style=for-the-badge"><a href="https://github.com/Tushar69k/"><img src="https://komarev.com/ghpvc/?username=Tushar69k&style=for-the-badge"></a>
 </div><br>
 
-<div>
+<div align="center">
  
 
 <img  align= " left" src="https://github-readme-stats.vercel.app/api?username=Tushar69k&show_icons=true&theme=chartreuse-dark">
