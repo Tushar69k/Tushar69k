@@ -47,8 +47,6 @@
 
 <p align = " center "><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tushar69k&show_icons=true&locale=en&layout=compact" alt="tushar69k" /></p>
 
-<h2></h2>
-<p align = " center "> &nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=Tushar69k&show_icons=true&locale=en" alt="tushar69k" /></p>
 
 <h2></h2>
 <p align = " center "><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar69k&" alt="tushar69k" /></p>
