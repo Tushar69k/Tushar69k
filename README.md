@@ -1,5 +1,5 @@
  <h1 align="center">Greetings , I am Tushar Kharade! 😊</h1>
-    
+     
 <h3 align="center">👨‍💻 Integrated MCA Student 👨‍💻</h3>
 <br>
 <p align="center"> 
