@@ -2,8 +2,7 @@
      
 <h3 align="center">👨‍💻 Integrated MCA Student 👨‍💻</h3>
 <br>
-<p align="center"> 
- 
+<p align="center">
   <a href="https://github.com/Tushar69k/"><img src="https://readme-typing-svg.herokuapp.com?lines=Master+of+Computer+Application;%20IIPS+,+DAVV+,+Indore%20;CPP%20|%20HTML-CSS%20|%20Java%20|%20Cyber+Security%20;&center=true&width=550&height=40"></a>
 </p>
 <h2></h2>
