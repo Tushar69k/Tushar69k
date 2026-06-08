@@ -1,63 +1,123 @@
- <h1 align="center"> Greetings , I am Tushar Kharade! 😊</h1>
-     
-<h3 align="center">👨‍💻 Integrated MCA Student 👨‍💻</h3>
-<br>
-<p align="center"> 
-  <a href="https://github.com/Tushar69k/"><img src="https://readme-typing-svg.herokuapp.com?lines=Master+of+Computer+Application;%20IIPS+,+DAVV+,+Indore%20;CPP%20|%20HTML-CSS%20|%20Java%20|%20Cyber+Security%20;&center=true&width=550&height=40"></a>
-</p>
-<h2></h2>
-
 <div align="center">
-<img src='https://img.shields.io/github/followers/Tushar69k?logo=Github&style=for-the-badge'><img src="https://img.shields.io/github/stars/Tushar69k?style=for-the-badge"><a href="https://github.com/Tushar69k/"><img src="https://komarev.com/ghpvc/?username=Tushar69k&style=for-the-badge"></a>
-</div><br>
 
-<div align="center">
- 
+```
+████████╗██╗   ██╗███████╗██╗  ██╗ █████╗ ██████╗
+╚══██╔══╝██║   ██║██╔════╝██║  ██║██╔══██╗██╔══██╗
+   ██║   ██║   ██║███████╗███████║███████║██████╔╝
+   ██║   ██║   ██║╚════██║██╔══██║██╔══██║██╔══██╗
+   ██║   ╚██████╔╝███████║██║  ██║██║  ██║██║  ██║
+   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<img  align= " left"  src="https://github-readme-stats.vercel.app/api?username=Tushar69k&show_icons=true&theme=chartreuse-dark">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Integrated+MCA+Student+%40+IIPS+DAVV;Data+Scientist+in+the+Making;C%2B%2B+%7C+Java+%7C+Python+%7C+Cyber+Security;Building+%E2%80%94+Breaking+%E2%80%94+Learning)](https://github.com/Tushar69k)
 
-
-
-<img align="right"  height="180" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="coding">
-    
+<img src="https://komarev.com/ghpvc/?username=Tushar69k&style=flat-square&color=00ff88&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Tushar69k?style=flat-square&color=00ff88&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Tushar69k?style=flat-square&color=00ff88&label=STARS" />
 
 </div>
 
-<h2></h2>
+---
 
+## `$ whoami`
 
-<h3 align="center">💻 Coding Languages 💻</h3>
-<br>
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </p>
-<h2></h2>
+```yaml
+name        : Tushar Kharade
+role        : Integrated MCA Student
+institute   : IIPS, DAVV — Indore, Madhya Pradesh
+interests   : Data Science · Cyber Security · Problem Solving
+currently   : Learning DSA + Building Projects
+contact     : tushlappy@gmail.com
+```
 
+---
 
+## `$ ls ./skills`
 
-
- 
- <div align ="center">
-  
- 
-  <img  src="https://streak-stats.demolab.com?user=Tushar69k&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-   </div>
-   <h2></h2>
-   <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tushar69k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
- </div>
-
-<h2></h2>
-
-<h3 align="center">🤝 Connect With Me 🤝</h3>
-<br>
 <div align="center">
-<a href="https://www.linkedin.com/in/tushar-kharade-2171b0299"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.github.com/Tushar69k/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:tushlappy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black)
+
 </div>
-<h2></h2>
-  
 
-<p align="center">
+---
 
+## `$ cat ./projects`
 
-this is my readme code give it to me by making changes on it
+### 🔬 [Telecom Churn Analysis](https://github.com/Tushar69k/Telecom-Churn-Analysis)
+> Exploratory data analysis on telecom customer churn — uncovering patterns that drive customer loss using Python & Jupyter.
+
+`Python` `Pandas` `Matplotlib` `EDA` `Data Science`
+
+---
+
+### ⚡ [Hackathon Project](https://github.com/Tushar69k/hackathon)
+> Built under pressure, shipped with passion.
+
+`Python` `Problem Solving`
+
+---
+
+## `$ cat ./stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tushar69k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar69k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tushar69k&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
+
+</div>
+
+---
+
+## `$ ./snake_contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tushar69k/Tushar69k/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tushar69k/Tushar69k/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tushar69k/Tushar69k/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## `$ cat ./connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kharade-2171b0299)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tushar69k)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tushar69k/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tushark_69)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tushlappy@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+/* keep building. keep breaking. keep learning. */
+```
+
+</div>
